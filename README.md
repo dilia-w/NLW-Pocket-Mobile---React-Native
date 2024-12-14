@@ -27,7 +27,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Navigation](https://reactnavigation.org/)
-- Outras ferramentas/bibliotecas relevantes para React Native.
 
 ---
 
